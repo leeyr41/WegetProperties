@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="leeyr41.buttontest.MainActivity"
+    android:orientation="vertical">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/but_str1"
+        android:textSize="20sp"
+        android:textColor="#ff00ae"
+        android:background="#c9000000"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/but_str2"
+        android:textSize="20sp"
+        android:textColor="#ff00ae"
+        android:background="#c9000000"
+        />
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:text="@string/but_str2"
+        android:textSize="20sp"
+        android:textColor="#ff00ae"
+        android:background="#c9000000"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/but_str2"
+        android:textSize="20sp"
+        android:textColor="#ff00ae"
+        android:background="#c9000000"
+        />
+
+    <Button
+        android:id="@+id/but1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/but_str2"
+        android:textSize="20sp"
+        android:textColor="#ff00ae"
+        android:background="#c9000000"
+        />
+</LinearLayout>

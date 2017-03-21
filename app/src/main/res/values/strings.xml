@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonTest</string>
+    <string name="but_str1">버튼 위젯 속성들</string>
+    <string name="but_str2">버튼의 layout_width 속성 </string>
+</resources>
